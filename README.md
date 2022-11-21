@@ -10,13 +10,13 @@ The image below features the webpage design and content. The search can be filte
 
 ![image](https://github.com/Zbahsoun/UFOs/blob/main/Main%20Page.png)
 
-Here is an example featuring the search by date in the table.
+Here is an example featuring the search "by date" in the table.
 
 ![image](https://github.com/Zbahsoun/UFOs/blob/main/FilterByDate.png)
 
 ## Summary:
 
-### This webpage has a few drawbacks including:
+### This webpage has a few drawbacks, to list a few:
 
 - Difficulty to know what parameter to use for the filtering. For example, to pick a shape, the user has to go through the table to know what options for the data presented includes. 
 
