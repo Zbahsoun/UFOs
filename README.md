@@ -1,8 +1,8 @@
-# UFOs
+# UFOs with JavaScript
 
 ## Overview of the project:
 
-This project consists of creating a webpage containing the data stored as a JavaScript array or list to create a table organizing the information, using the loop function we can build a table to create a customized dashboard. This webpage is interactive because of its customized filters that can be applied in many ways. The main purpose of this webpage is to present a brief description about the UFO sightings, a table to display all the data, and filters to update the table based on the search criteria. ![image](https://user-images.githubusercontent.com/102932138/202963461-ffee5aaf-bd90-4296-a49d-1a424a94e023.png)
+This project consists of creating a webpage containing the data stored as a JavaScript array or list to create a table organizing the information, using the loop function we can build a table to create a customized dashboard. This webpage is interactive because of its customized filters that can be applied in many ways. The main purpose of this webpage is to present a brief description about the UFO sightings, a table to display all the data, and filters to update the table based on the search criteria. 
 
 ## Results:
 
